@@ -1,0 +1,28 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-vanties",
+    "MetaModuleDescription": "vanTies for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "Ad",
+            "name": "Ad"
+        },
+        {
+            "slug": "Adje",
+            "name": "Adje"
+        },
+        {
+            "slug": "Bufke",
+            "name": "Bufke"
+        },
+        {
+            "slug": "Funs",
+            "name": "Funs"
+        },
+        {
+            "slug": "Sjoegele",
+            "name": "Sjoegele"
+        }
+    ]
+}
